@@ -1,0 +1,11 @@
+FRIENDLY NAME
+Chatroom Key
+
+SID
+SKb3a6dde5b588027ca17befbac8891c4b
+
+KEY TYPE
+Standard
+
+SECRET
+GaUuAv9jR5AXSIcD2q0JQ96OeVh1M4iQ
